@@ -1,0 +1,16 @@
+title: Akhil Latta
+description: Akhil Latta's personal website hosted on GitHub Pages
+url: https://alatta.github.io
+baseurl: ""
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
